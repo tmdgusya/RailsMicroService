@@ -2,4 +2,7 @@
 load File.expand_path("spring", __dir__)
 require_relative "../config/boot"
 require "rake"
+require 'resque'
+require 'resque/tasks'
+
 Rake.application.run

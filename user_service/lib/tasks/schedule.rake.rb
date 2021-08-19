@@ -1,0 +1,3 @@
+namespace :schedule do
+  
+end
