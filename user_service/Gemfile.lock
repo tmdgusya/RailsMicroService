@@ -176,6 +176,7 @@ DEPENDENCIES
   mysql2 (~> 0.5.3)
   puma (~> 5.0)
   rails (~> 6.1.4)
+  redis-namespace
   resque
   spring
   sqlite3 (~> 1.4)
